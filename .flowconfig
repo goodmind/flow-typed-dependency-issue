@@ -1,0 +1,13 @@
+[ignore]
+.*/.history/.*
+
+[include]
+
+[libs]
+custom_node_modules/@flowtyped
+
+[lints]
+
+[options]
+
+[strict]
